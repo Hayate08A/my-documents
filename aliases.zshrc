@@ -1,0 +1,11 @@
+# aliases
+alias alied='vi ~/.zshrc && aliup && alias'
+alias aliup='source ~/.zshrc'
+alias g='git'
+alias gadd='git add .'
+alias gbr='git branch'
+alias gbrc='git branch --contains'
+alias gcm='git commit -m'
+alias glg='git log'
+alias glgo='git log --oneline'
+alias gst='git status'
