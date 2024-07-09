@@ -1,5 +1,6 @@
 # aliases
 alias alied='vi ~/.zshrc && aliup && alias'
+alias aliop='open ~/.zshrc'
 alias aliup='source ~/.zshrc'
 
 # git
